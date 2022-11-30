@@ -8,7 +8,7 @@ double b1 = GetNumberFromUser("Введите число b1: ", "Ошибка в
 double k2 = GetNumberFromUser("Введите число k2: ", "Ошибка ввода!");
 double b2 = GetNumberFromUser("Введите число b2: ", "Ошибка ввода!");
 
-// y == k1 * x + b1; // -0?5
+// y == k1 * x + b1; 
 // y == k2 * x + b2;
 // k1 * x + b1 == k2 * x + b2;      
 // k1*x - k2*x == b2 - b2           
